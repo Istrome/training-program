@@ -1,0 +1,16 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+build/
+**/build/
+local.properties
+.externalNativeBuild/
+.cxx/
+.kotlin/
+captures/
+.DS_Store
+
+# Android SDK
+Sdk/
+.knownPackages

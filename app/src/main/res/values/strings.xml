@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Workout</string>
+
+    <string name="start_workout">Start Workout</string>
+    <string name="complete_exercise">Complete Exercise</string>
+
+    <string name="exercise">Exercise</string>
+    <string name="description">Description</string>
+
+    <string name="time_default">00:00</string>
+
+    <string name="exercise_gif">Exercise GIF</string>
+
+    <string name="workout">Workout</string>
+    <string name="pushups">Отжимания</string>
+    <string name="squats">Приседания</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+
+</resources>
